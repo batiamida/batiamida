@@ -4,4 +4,4 @@
 
 ### Interactive Skill Map
 Explore my skill distribution:
-<iframe src="https://batiamida.github.io/myskills/" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="[https://batiamida.github.io/myskills/](https://batiamida.github.io/myskills.github.io/)" width="100%" height="600px" style="border:none;"></iframe>
