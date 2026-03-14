@@ -2,6 +2,14 @@
 **Senior Data Scientist / ML Engineer**  
 
 ## Here is some of my skills
+
+---
+
+Click on link to get forwarded to interactive chart or check out my skills down below:
+
+### Interactive Skill Map
+[Explore My Skill Map](https://batiamida.github.io/myskills.github.io/)
+
 ---
 
 ### 🛠 Programming Languages
@@ -80,10 +88,3 @@
 [![Project Management](https://img.shields.io/badge/Project_Management-00BFFF?style=for-the-badge)](https://en.wikipedia.org/wiki/Project_management)
 
 ---
-
-
-## Interactive Skill Map
-
-Click below to explore my skills:
-
-[Explore My Skill Map](https://batiamida.github.io/myskills.github.io/)
