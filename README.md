@@ -7,8 +7,8 @@
 
 Click on link to get forwarded to interactive chart or check out my skills down below:
 
-### Interactive Skill Map
-[Explore My Skill Map](https://batiamida.github.io/myskills.github.io/)
+### Interactive Skill chart
+[Explore My Skill Chart](https://batiamida.github.io/myskills.github.io/)
 
 ---
 
