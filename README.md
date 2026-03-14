@@ -36,7 +36,7 @@ Click on link to get forwarded to interactive chart or check out my skills down 
 [![ONNX](https://img.shields.io/badge/ONNX-3D6DBC?style=for-the-badge)](https://onnx.ai/)
 [![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge)](https://www.tensorflow.org/lite)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)](https://opencv.org/)
-[![Ultralytics (YOLO)](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge)](https://github.com/ultralytics/yolov5)
+[![Ultralytics (YOLO)](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge)](https://github.com/ultralytics/ultralytics)
 [![Transformers](https://img.shields.io/badge/Transformers-3B3B98?style=for-the-badge)](https://huggingface.co/transformers/)
 [![FAISS](https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge)](https://faiss.ai/)
 [![LangChain](https://img.shields.io/badge/LangChain-6E43B7?style=for-the-badge)](https://www.langchain.com/)
