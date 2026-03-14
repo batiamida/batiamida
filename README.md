@@ -39,6 +39,7 @@ Click on link to get forwarded to interactive chart or check out my skills down 
 [![Ultralytics (YOLO)](https://img.shields.io/badge/Ultralytics-FF0000?style=for-the-badge)](https://github.com/ultralytics/ultralytics)
 [![Transformers](https://img.shields.io/badge/Transformers-3B3B98?style=for-the-badge)](https://huggingface.co/transformers/)
 [![FAISS](https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge)](https://faiss.ai/)
+[![QDRANT](https://img.shields.io/badge/QDRANT-FF0000?style=for-the-badge)](https://qdrant.tech/)
 [![LangChain](https://img.shields.io/badge/LangChain-6E43B7?style=for-the-badge)](https://www.langchain.com/)
 
 ---
